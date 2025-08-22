@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "midnight-drag",
+  "private_key_id": "9b2b7ad392f84c0f0a902ccaec0b757de04e297d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCv58B8lWlUZEp8\n1+MHSlvj59hwG7r2qNxatcvciOFeWtkIApUXFHOssiIXjD1pYClOap26+W4BtAGv\nbzPGXWWO7txeGKTuGFEPrzpqVxEEnAnx2xefvYqhOMIiZBzfVV1x/KPrsN5CEKgd\nEWKOw2KTLS0DpjJWAj0d/QBZprPhfzo6egCdkOmTzpSnTshsI+txpT71RVBhF7bz\n6arZAi7McUhXY3MZucDvSltSnNViN0WKX9YwncUvh7KFj37hszOeargMeMAY/SAV\n+IH8KwK1YIRzoPyIErqauXxbvPJaC9VE525NdnnZij18bj2xwyrilO/xT2KnfbCr\nztuzi6bdAgMBAAECggEADZeSwA2rfeHh/5OO71lHkGyxxLff0n9px3iUsA3DnE7Y\nxk2sx4PFDGsXR0qG1EWh63VBitkLLwaButSU45cD6e97B6pP1DX8zYF0uhLQNdL4\n0b9kK+uxcpO4LIAf2wH1noEvCV85TVGMK/LT8sQWMdkjyUxmR08U+eQ6yrKe46WY\nRoTyskawBcxhYKRu6HHpQFXWm6wy8IkAjkkjS4YnmCI+fPF7M7KnSah7sRPc7Knl\nVDSe7/w+ZgIS6PDwWDxxzcrLaub1QGnhgJv7x11gk4i7aanhGTTBzrIiPRPZ7VBE\nuN+Nx3Vl/PyL+IIopYi5JXEcfIEzm+484ekxM2zRAQKBgQDV9MdJ5X8ZsiCcluE3\nLmWDr4ojG07+lprq9e+juGVnVofHxoiGWhtC95fVgujFiIC7/T5c26PCLxoeqYDl\nQYirf4jliPLxiDu3b5S8liK000LCAGR46n/coiaZw84tBIXdStt3TD0ZyvwNyj6j\ns144CJfVSp1WRG6TE+nkGWgnKQKBgQDSeMu5/l6JSP1HE8Yop0HB1MFhVfpvExWd\nHW+imD+ap/e6CPhwu67sKD1ft3XhuDSd3lJAE0yYhkSvNT1yvdnyxnxAOps7yqHE\nVAOzb0aWoia1yrqN+Xx4sMql+Egy37mhxt+L4exCadOy4MoIarXmaDtJr04maj7L\n5G2BRu18lQKBgEUpcDZ6AkELLLGRsFHHJLeRygSZMkrn4kIrqABzfgwOk6vHiKBt\nhjx6jtFNFPOtsXeTYFJiCaie00GwJ2N0cLqHanhQccAT+sHMRvdDTQrI896Eg/X2\nT8jBfdrcycwRlzg2l4UT1vh8fkfy5ZbDR6SzWmlvSjb1vgy7NjMu51UpAoGAPZ2j\ndrXjEynNDCvbzTb55zbTzh0Pjcj2gOKHNgCATlRyD4JkyQwI75XwMb9RwVzd+oGF\nbsC3ocddADYD4T13Or2kzmDZ5S0zIni+BJ/E+IBL+Nh6uOma6PJIwUHoUQxyGcxQ\n0XC4a9DzauCoBMLIscU95hpuNIzSCXq8HCaZi+kCgYEAsdSyLNZMM02EjNvLoSK8\n1v6c7gkt9MWgFdFuTjuaiSl6mOiVbqH5NOiAcElOdgkZLM2o66uoKr44UTNzoK1B\n7YLlIw4bY8aaL4BVXvrqPskkd2W708VvJee/6BQhfSPA5n0ek8Pd7fpU8YBHGFGD\nudoHpVo+1nOTKjyAL6sR8ro=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@midnight-drag.iam.gserviceaccount.com",
+  "client_id": "106881527479179687170",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40midnight-drag.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
